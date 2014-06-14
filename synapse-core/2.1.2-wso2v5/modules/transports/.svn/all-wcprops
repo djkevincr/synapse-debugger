@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/wso2/!svn/ver/202917/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/log4j.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/pom.xml
+END

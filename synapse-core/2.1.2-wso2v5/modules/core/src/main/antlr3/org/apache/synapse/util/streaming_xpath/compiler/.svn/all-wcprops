@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/antlr3/org/apache/synapse/util/streaming_xpath/compiler
+END
+XPath1Walker.g
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/antlr3/org/apache/synapse/util/streaming_xpath/compiler/XPath1Walker.g
+END
+XPath1.g
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/antlr3/org/apache/synapse/util/streaming_xpath/compiler/XPath1.g
+END

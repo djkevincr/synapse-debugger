@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/builtin
+END
+ValidateMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/builtin/ValidateMediatorTest.java
+END
+DropMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/builtin/DropMediatorTest.java
+END
+PropertyMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/builtin/PropertyMediatorTest.java
+END
+ValidateMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/builtin/ValidateMediatorSerializationTest.java
+END

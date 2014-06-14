@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/db
+END
+DBLookupMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/db/DBLookupMediatorTest.java
+END
+DBReportMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/db/DBReportMediatorTest.java
+END

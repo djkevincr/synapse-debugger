@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/src/main/scripts/axis2Server
+END
+axis2server.bat
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/src/main/scripts/axis2Server/axis2server.bat
+END
+axis2server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/src/main/scripts/axis2Server/axis2server.sh
+END

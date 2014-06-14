@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view
+END
+SystemViewStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view/SystemViewStrategy.java
+END
+PerUserViewStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view/PerUserViewStrategy.java
+END
+InOutStatisticsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view/InOutStatisticsView.java
+END
+StatisticsViewStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view/StatisticsViewStrategy.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view/Statistics.java
+END
+PerUserDomainViewStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view/PerUserDomainViewStrategy.java
+END
+PerUserIPViewStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/view/PerUserIPViewStrategy.java
+END

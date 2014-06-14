@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml
+END
+IterateMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/IterateMediatorSerializationTest.java
+END
+CalloutMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/CalloutMediatorSerializationTest.java
+END
+ConditionalRouterMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/ConditionalRouterMediatorSerializationTest.java
+END
+DropMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/DropMediatorSerializationTest.java
+END
+ClassMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/ClassMediatorSerializationTest.java
+END
+OutMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/OutMediatorSerializationTest.java
+END
+SequenceMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/SequenceMediatorSerializationTest.java
+END
+FaultMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/FaultMediatorSerializationTest.java
+END
+MessageStoreSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/MessageStoreSerializationTest.java
+END
+DBLookupMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/DBLookupMediatorSerializationTest.java
+END
+DBReportMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/DBReportMediatorSerializationTest.java
+END
+LocalEntryConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/LocalEntryConfigurationTest.java
+END
+TestMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/TestMediator.java
+END
+HeaderMediatorConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/HeaderMediatorConfigurationTest.java
+END
+RegistrySerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/RegistrySerializationTest.java
+END
+FilterMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/FilterMediatorSerializationTest.java
+END
+MultiXMLConfigurationBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/MultiXMLConfigurationBuilderTest.java
+END
+HeaderMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/HeaderMediatorSerializationTest.java
+END
+XSLTMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/XSLTMediatorSerializationTest.java
+END
+LoopBackMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/LoopBackMediatorSerializationTest.java
+END
+CloneMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/CloneMediatorSerializationTest.java
+END
+SwitchMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/SwitchMediatorSerializationTest.java
+END
+CacheMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/CacheMediatorSerializationTest.java
+END
+URLRewriteMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/URLRewriteMediatorSerializationTest.java
+END
+POJOCommandMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/POJOCommandMediatorSerializationTest.java
+END
+InMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/InMediatorSerializationTest.java
+END
+RMSequenceMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/RMSequenceMediatorSerializationTest.java
+END
+RespondMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/RespondMediatorSerializationTest.java
+END
+CallMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/CallMediatorSerializationTest.java
+END
+AbstractTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/AbstractTestCase.java
+END
+EntrySerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/EntrySerializationTest.java
+END
+ProxyServiceSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/ProxyServiceSerializationTest.java
+END
+StartupSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/StartupSerializationTest.java
+END
+LogMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/LogMediatorSerializationTest.java
+END
+PropertyMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/PropertyMediatorSerializationTest.java
+END
+TransactionMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/TransactionMediatorSerializationTest.java
+END
+AggregateMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/AggregateMediatorSerializationTest.java
+END
+SendMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/SendMediatorSerializationTest.java
+END

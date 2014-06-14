@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2/schema
+END
+SimpleStockService-GetQuote.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2/schema/SimpleStockService-GetQuote.xsd
+END
+SimpleStockService-PlaceOrder.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2/schema/SimpleStockService-PlaceOrder.xsd
+END

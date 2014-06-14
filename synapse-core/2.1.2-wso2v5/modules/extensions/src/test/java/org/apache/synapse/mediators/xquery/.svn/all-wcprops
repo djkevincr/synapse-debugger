@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/mediators/xquery
+END
+XQueryMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/mediators/xquery/XQueryMediatorSerializationTest.java
+END
+XQueryMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/mediators/xquery/XQueryMediatorTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/resolver
+END
+ResourceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/resolver/ResourceMap.java
+END
+CustomWSDLLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/resolver/CustomWSDLLocator.java
+END
+UserDefinedWSDLLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/resolver/UserDefinedWSDLLocator.java
+END
+CustomXmlSchemaURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/resolver/CustomXmlSchemaURIResolver.java
+END
+CustomJAXPURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/resolver/CustomJAXPURIResolver.java
+END
+UserDefinedXmlSchemaURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/resolver/UserDefinedXmlSchemaURIResolver.java
+END

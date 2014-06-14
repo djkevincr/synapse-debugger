@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms
+END
+Axis2Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms/Axis2Message.java
+END
+MessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms/MessageConverter.java
+END
+JmsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms/JmsProducer.java
+END
+StorableMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms/StorableMessage.java
+END
+JmsConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms/JmsConsumer.java
+END
+JmsStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms/JmsStore.java
+END
+SynapseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/impl/jms/SynapseMessage.java
+END

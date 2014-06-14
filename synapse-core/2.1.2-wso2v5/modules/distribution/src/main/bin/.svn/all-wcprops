@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin
+END
+synapse.bat
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/synapse.bat
+END
+wrapper-windows-x86-32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/wrapper-windows-x86-32.dll
+END
+install-synapse-service.bat
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/install-synapse-service.bat
+END
+synapse.sh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/synapse.sh
+END
+synapse-daemon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/synapse-daemon.sh
+END
+uninstall-synapse-service.bat
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/uninstall-synapse-service.bat
+END
+ciphertool.bat
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/ciphertool.bat
+END
+synapse-config-migrator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/synapse-config-migrator.sh
+END
+ciphertool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/distribution/src/main/bin/ciphertool.sh
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/LoadbalanceFailoverService/src/samples/services
+END
+LBService1.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/LoadbalanceFailoverService/src/samples/services/LBService1.java
+END
+LBService2.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/LoadbalanceFailoverService/src/samples/services/LBService2.java
+END

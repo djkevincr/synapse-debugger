@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators
+END
+TestMediateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/TestMediateHandler.java
+END
+AbstractTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/AbstractTestCase.java
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/TestUtils.java
+END
+AbstractMediatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/AbstractMediatorTestCase.java
+END
+TestMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/TestMediator.java
+END

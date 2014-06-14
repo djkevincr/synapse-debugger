@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin
+END
+CallMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/CallMediator.java
+END
+LogMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/LogMediator.java
+END
+CacheMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/CacheMediator.java
+END
+CalloutMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/CalloutMediator.java
+END
+DropMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/DropMediator.java
+END
+PropertyMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/PropertyMediator.java
+END
+EnqueueMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/EnqueueMediator.java
+END
+RMSequenceMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/RMSequenceMediator.java
+END
+SendMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/SendMediator.java
+END
+ValidateMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/ValidateMediator.java
+END
+LoopBackMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/LoopBackMediator.java
+END
+RespondMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/builtin/RespondMediator.java
+END

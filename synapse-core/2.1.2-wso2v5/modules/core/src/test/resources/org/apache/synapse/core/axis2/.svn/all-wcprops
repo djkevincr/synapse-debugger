@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2
+END
+imported.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2/imported.wsdl
+END
+root.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2/root.wsdl
+END
+imported.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2/imported.xsd
+END
+SimpleStockService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/org/apache/synapse/core/axis2/SimpleStockService.wsdl
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/transform
+END
+XSLTMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/transform/XSLTMediator.java
+END
+FaultMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/transform/FaultMediator.java
+END
+Argument.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/transform/Argument.java
+END
+PayloadFactoryMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/transform/PayloadFactoryMediator.java
+END
+HeaderMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/mediators/transform/HeaderMediator.java
+END

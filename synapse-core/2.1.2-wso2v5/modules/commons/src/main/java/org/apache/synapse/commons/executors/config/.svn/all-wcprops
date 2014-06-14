@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/executors/config
+END
+PriorityExecutorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/executors/config/PriorityExecutorFactory.java
+END
+PriorityExecutorSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/executors/config/PriorityExecutorSerializer.java
+END

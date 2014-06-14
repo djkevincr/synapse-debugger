@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/202848/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/connections
+END
+TargetConnections.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/repos/wso2/!svn/ver/201153/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/connections/TargetConnections.java
+END
+HostConnections.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/connections/HostConnections.java
+END
+SourceConnections.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/repos/wso2/!svn/ver/202848/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/connections/SourceConnections.java
+END

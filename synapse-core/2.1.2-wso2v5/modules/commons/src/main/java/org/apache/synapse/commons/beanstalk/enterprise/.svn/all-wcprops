@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise
+END
+EnterpriseIntitalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise/EnterpriseIntitalContext.java
+END
+EnterpriseBeanstalkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise/EnterpriseBeanstalkManager.java
+END
+EnterpriseBeanstalkView.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise/EnterpriseBeanstalkView.java
+END
+EnterpriseBeanstalkConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise/EnterpriseBeanstalkConstants.java
+END
+EnterpriseBeanstalkViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise/EnterpriseBeanstalkViewMBean.java
+END
+CacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise/CacheEntry.java
+END
+EnterpriseBeanstalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/beanstalk/enterprise/EnterpriseBeanstalk.java
+END

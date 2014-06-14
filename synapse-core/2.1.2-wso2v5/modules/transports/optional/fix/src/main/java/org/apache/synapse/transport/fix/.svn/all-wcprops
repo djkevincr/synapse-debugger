@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix
+END
+FIXTransportListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXTransportListener.java
+END
+AxisFIXException.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/AxisFIXException.java
+END
+FIXIncomingMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXIncomingMessageHandler.java
+END
+FIXApplicationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXApplicationFactory.java
+END
+FIXSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXSessionFactory.java
+END
+FIXConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXConstants.java
+END
+SessionEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/SessionEventHandler.java
+END
+FIXTransportSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXTransportSender.java
+END
+FIXOutgoingMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXOutgoingMessageHandler.java
+END
+FIXOutTransportInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXOutTransportInfo.java
+END
+FIXUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/FIXUtils.java
+END

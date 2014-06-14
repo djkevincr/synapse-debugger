@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/format/hessian
+END
+HessianMessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/format/hessian/HessianMessageFormatter.java
+END
+HessianMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/format/hessian/HessianMessageBuilder.java
+END
+HessianConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/format/hessian/HessianConstants.java
+END
+HessianUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/format/hessian/HessianUtils.java
+END

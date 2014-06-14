@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/snmp
+END
+SNMPConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/snmp/SNMPConstants.java
+END
+SynapseMIBUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/snmp/SynapseMIBUtils.java
+END
+SNMPAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/snmp/SNMPAgent.java
+END
+SynapseSNMPAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/snmp/SynapseSNMPAgent.java
+END
+SynapseMOScalar.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/snmp/SynapseMOScalar.java
+END

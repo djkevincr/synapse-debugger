@@ -1,0 +1,126 @@
+10
+
+dir
+204269
+https://svn.wso2.org/repos/wso2/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse
+https://svn.wso2.org/repos/wso2
+
+
+
+2014-01-28T11:47:12.967586Z
+195438
+kasun@wso2.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a5903396-d722-0410-b921-86c7d4935375
+
+config
+dir
+
+mediators
+dir
+
+core
+dir
+
+registry
+dir
+
+TestMessageContext.java
+file
+
+
+
+
+2014-05-29T14:29:52.783752Z
+bba5980ca77e795d7112b99fcf5dee53
+2013-09-12T09:48:32.147108Z
+185233
+isuruu@wso2.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9460
+
+n2n
+dir
+
+rest
+dir
+
+util
+dir
+
+eventing
+dir
+
+TestMessageContextBuilder.java
+file
+
+
+
+
+2014-05-29T14:29:52.783752Z
+f3b654053e269176b981c188f7f9fafb
+2012-11-09T04:57:49.975307Z
+147663
+miyuru
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6358
+
+endpoints
+dir
+
+message
+dir
+

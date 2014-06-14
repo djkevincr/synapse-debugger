@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components
+END
+GetAttributeParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetAttributeParserComponent.java
+END
+GetChildrenByNameParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetChildrenByNameParserComponent.java
+END
+GetChildrenWithAttributeValueParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetChildrenWithAttributeValueParserComponent.java
+END
+GetChildrenWithChildValueParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetChildrenWithChildValueParserComponent.java
+END
+GetChildrenWithAttributeParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetChildrenWithAttributeParserComponent.java
+END
+GetChildrenWithChildParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetChildrenWithChildParserComponent.java
+END
+GetFirstChildParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetFirstChildParserComponent.java
+END
+GetCurrentMatchParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetCurrentMatchParserComponent.java
+END
+ParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/ParserComponent.java
+END
+GetChildrenByNameRelativeParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetChildrenByNameRelativeParserComponent.java
+END
+GetCurrentParserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/util/streaming_xpath/custom/components/GetCurrentParserComponent.java
+END

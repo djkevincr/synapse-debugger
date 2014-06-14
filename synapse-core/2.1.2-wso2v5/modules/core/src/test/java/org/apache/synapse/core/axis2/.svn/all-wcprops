@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/core/axis2
+END
+Axis2MessageContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/core/axis2/Axis2MessageContextTest.java
+END
+ProxyServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/core/axis2/ProxyServiceTest.java
+END
+SOAPConversionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/core/axis2/SOAPConversionTest.java
+END

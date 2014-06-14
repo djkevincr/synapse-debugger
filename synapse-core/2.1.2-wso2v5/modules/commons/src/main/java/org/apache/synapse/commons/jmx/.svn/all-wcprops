@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx
+END
+JmxInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/JmxInformation.java
+END
+MBeanRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/MBeanRegistrar.java
+END
+JmxInformationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/JmxInformationFactory.java
+END
+JmxSecretAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/JmxSecretAuthenticator.java
+END
+ThreadingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/ThreadingView.java
+END
+MBeanRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/MBeanRepository.java
+END
+JmxConfigurationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/JmxConfigurationConstants.java
+END
+ThreadingViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/jmx/ThreadingViewMBean.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/xquery
+END
+MediatorVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/xquery/MediatorVariable.java
+END
+XQueryMediatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/xquery/XQueryMediatorFactory.java
+END
+XQueryMediatorSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/xquery/XQueryMediatorSerializer.java
+END
+XQueryMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/xquery/XQueryMediator.java
+END
+MediatorBaseVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/xquery/MediatorBaseVariable.java
+END
+MediatorCustomVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/xquery/MediatorCustomVariable.java
+END

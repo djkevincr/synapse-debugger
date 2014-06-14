@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util
+END
+MultiSSLProfileReloaderMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/MultiSSLProfileReloaderMBean.java
+END
+ConnectionsViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/ConnectionsViewMBean.java
+END
+ActiveConnectionMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/ActiveConnectionMonitor.java
+END
+MessageFormatterDecoratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/MessageFormatterDecoratorFactory.java
+END
+GzipMessageFormatterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/GzipMessageFormatterDecorator.java
+END
+LatencyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/LatencyView.java
+END
+MultiSSLProfileReloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/MultiSSLProfileReloader.java
+END
+NhttpMetricsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/NhttpMetricsCollector.java
+END
+NhttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/NhttpUtil.java
+END
+RESTUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/RESTUtil.java
+END
+ConnectionsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/ConnectionsView.java
+END
+LatencyViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/util/LatencyViewMBean.java
+END

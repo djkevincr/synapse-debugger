@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/endpoints
+END
+CustomClassEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/endpoints/CustomClassEndpoint.java
+END
+AddressEndpointSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/endpoints/AddressEndpointSerializationTest.java
+END
+ClassEndpointSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/endpoints/ClassEndpointSerializationTest.java
+END
+LoadBalanceEndpointSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/config/xml/endpoints/LoadBalanceEndpointSerializationTest.java
+END

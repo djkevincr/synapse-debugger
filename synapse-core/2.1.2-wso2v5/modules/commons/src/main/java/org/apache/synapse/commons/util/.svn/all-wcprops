@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/util
+END
+MiscellaneousUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/util/MiscellaneousUtil.java
+END
+PropertyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/util/PropertyHelper.java
+END
+RMIRegistryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/util/RMIRegistryController.java
+END
+TemporaryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/util/TemporaryData.java
+END

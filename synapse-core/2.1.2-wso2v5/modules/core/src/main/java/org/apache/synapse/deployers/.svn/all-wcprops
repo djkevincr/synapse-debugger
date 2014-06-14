@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers
+END
+PriorityExecutorDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/PriorityExecutorDeployer.java
+END
+MessageStoreDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/MessageStoreDeployer.java
+END
+TaskDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/TaskDeployer.java
+END
+EventSourceDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/EventSourceDeployer.java
+END
+ProxyServiceDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/ProxyServiceDeployer.java
+END
+SequenceDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/SequenceDeployer.java
+END
+APIDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/APIDeployer.java
+END
+ImportDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/ImportDeployer.java
+END
+SynapseArtifactDeploymentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/SynapseArtifactDeploymentStore.java
+END
+TemplateDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/TemplateDeployer.java
+END
+ExtensionDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/ExtensionDeployer.java
+END
+LocalEntryDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/LocalEntryDeployer.java
+END
+SynapseArtifactDeploymentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/SynapseArtifactDeploymentException.java
+END
+EndpointDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/EndpointDeployer.java
+END
+LibraryArtifactDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/LibraryArtifactDeployer.java
+END
+MessageProcessorDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/MessageProcessorDeployer.java
+END
+AbstractSynapseArtifactDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/AbstractSynapseArtifactDeployer.java
+END
+ClassMediatorDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/deployers/ClassMediatorDeployer.java
+END

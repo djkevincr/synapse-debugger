@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics
+END
+StatisticsCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsCleaner.java
+END
+StatisticsRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsRecord.java
+END
+ErrorLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/ErrorLog.java
+END
+StatisticsConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsConfigurable.java
+END
+StatisticsLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsLog.java
+END
+StatisticsReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsReporter.java
+END
+StatisticsUpdateStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsUpdateStrategy.java
+END
+StatisticsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsCollector.java
+END
+StatisticsRecordFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/StatisticsRecordFactory.java
+END
+ErrorLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/aspects/statistics/ErrorLogFactory.java
+END

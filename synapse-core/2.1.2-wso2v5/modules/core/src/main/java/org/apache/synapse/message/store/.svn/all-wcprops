@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store
+END
+MessageStoreObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/MessageStoreObserver.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/Constants.java
+END
+MessageStoreView.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/MessageStoreView.java
+END
+MessageStoreViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/MessageStoreViewMBean.java
+END
+MessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/MessageStore.java
+END
+AbstractMessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/store/AbstractMessageStore.java
+END

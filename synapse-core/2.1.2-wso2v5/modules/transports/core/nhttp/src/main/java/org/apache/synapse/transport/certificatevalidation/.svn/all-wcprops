@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/Constants.java
+END
+RevocationStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/RevocationStatus.java
+END
+CertificateVerificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/CertificateVerificationException.java
+END
+RevocationVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/RevocationVerifier.java
+END
+RevocationVerificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/RevocationVerificationManager.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext
+END
+AnnotatedCommand2.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/AnnotatedCommand2.java
+END
+ClassMediatorTestMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/ClassMediatorTestMediator.java
+END
+POJOCommandTestImplementedMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/POJOCommandTestImplementedMediator.java
+END
+AnnotatedCommandMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/AnnotatedCommandMediatorTest.java
+END
+POJOCommandTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/POJOCommandTestHelper.java
+END
+ClassMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/ClassMediatorTest.java
+END
+POJOCommandMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/POJOCommandMediatorTest.java
+END
+POJOCommandTestMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/POJOCommandTestMediator.java
+END
+AnnotatedCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/mediators/ext/AnnotatedCommand.java
+END

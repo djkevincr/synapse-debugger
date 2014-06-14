@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/mediators/throttle
+END
+ThrottleMediatorSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/mediators/throttle/ThrottleMediatorSerializationTest.java
+END
+ThrottleMediatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/mediators/throttle/ThrottleMediatorTest.java
+END

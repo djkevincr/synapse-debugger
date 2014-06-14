@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/ReliableStockQuoteService/src/samples/services
+END
+GetQuoteResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/ReliableStockQuoteService/src/samples/services/GetQuoteResponse.java
+END
+GetQuote.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/ReliableStockQuoteService/src/samples/services/GetQuote.java
+END
+PlaceOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/ReliableStockQuoteService/src/samples/services/PlaceOrder.java
+END
+ReliableStockQuoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/ReliableStockQuoteService/src/samples/services/ReliableStockQuoteService.java
+END

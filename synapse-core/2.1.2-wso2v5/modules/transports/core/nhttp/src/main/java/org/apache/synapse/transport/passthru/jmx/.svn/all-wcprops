@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx
+END
+PassThroughTransportMetricsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/PassThroughTransportMetricsCollector.java
+END
+MBeanRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/MBeanRegistrar.java
+END
+TransportView.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/TransportView.java
+END
+LatencyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/LatencyView.java
+END
+TransportViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/TransportViewMBean.java
+END
+ConnectionsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/ConnectionsView.java
+END
+LatencyViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/LatencyViewMBean.java
+END
+ConnectionsViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/jmx/ConnectionsViewMBean.java
+END

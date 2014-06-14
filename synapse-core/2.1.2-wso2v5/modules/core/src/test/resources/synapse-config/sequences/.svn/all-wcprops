@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/synapse-config/sequences
+END
+foo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/synapse-config/sequences/foo.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/synapse-config/sequences/main.xml
+END
+fault.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/synapse-config/sequences/fault.xml
+END
+bar.xmlx
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/synapse-config/sequences/bar.xmlx
+END

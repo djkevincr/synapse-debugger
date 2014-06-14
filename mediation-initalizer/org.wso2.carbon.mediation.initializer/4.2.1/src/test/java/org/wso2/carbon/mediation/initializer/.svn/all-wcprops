@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/test/java/org/wso2/carbon/mediation/initializer
+END
+SequencePersistenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/test/java/org/wso2/carbon/mediation/initializer/SequencePersistenceTest.java
+END
+MediationPersistenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/test/java/org/wso2/carbon/mediation/initializer/MediationPersistenceTest.java
+END
+EndpointPersistenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/test/java/org/wso2/carbon/mediation/initializer/EndpointPersistenceTest.java
+END
+ProxyServicePersistenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/test/java/org/wso2/carbon/mediation/initializer/ProxyServicePersistenceTest.java
+END
+AdvancedPersistenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/test/java/org/wso2/carbon/mediation/initializer/AdvancedPersistenceTest.java
+END

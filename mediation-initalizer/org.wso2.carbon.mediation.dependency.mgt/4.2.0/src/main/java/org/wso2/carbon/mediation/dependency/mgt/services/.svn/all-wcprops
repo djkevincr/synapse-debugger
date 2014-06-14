@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/services
+END
+ConfigurationTrackingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 245
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/services/ConfigurationTrackingServiceImpl.java
+END
+ResolverRegistrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/services/ResolverRegistrationService.java
+END
+DependencyManagementServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/services/DependencyManagementServiceImpl.java
+END
+ResolverRegistrationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/services/ResolverRegistrationServiceImpl.java
+END
+ConfigurationTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/services/ConfigurationTrackingService.java
+END
+DependencyManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/services/DependencyManagementService.java
+END

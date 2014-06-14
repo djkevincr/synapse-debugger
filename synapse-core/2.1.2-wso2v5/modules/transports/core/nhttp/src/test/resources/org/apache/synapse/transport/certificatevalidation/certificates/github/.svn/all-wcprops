@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/resources/org/apache/synapse/transport/certificatevalidation/certificates/github
+END
+DigiCertHighAssuranceEVRootCA
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/resources/org/apache/synapse/transport/certificatevalidation/certificates/github/DigiCertHighAssuranceEVRootCA
+END
+DigiCertHighAssuranceEVCA-1
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/resources/org/apache/synapse/transport/certificatevalidation/certificates/github/DigiCertHighAssuranceEVCA-1
+END
+github.com
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/resources/org/apache/synapse/transport/certificatevalidation/certificates/github/github.com
+END

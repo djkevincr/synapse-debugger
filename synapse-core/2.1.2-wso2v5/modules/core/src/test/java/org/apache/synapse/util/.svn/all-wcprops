@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/util
+END
+TextFileDataSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/util/TextFileDataSourceTest.java
+END
+TestTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/util/TestTask.java
+END
+Services.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/util/Services.java
+END
+MessageHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/util/MessageHelperTest.java
+END
+SimpleMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/util/SimpleMapTest.java
+END
+SynapseXPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/java/org/apache/synapse/util/SynapseXPathTest.java
+END

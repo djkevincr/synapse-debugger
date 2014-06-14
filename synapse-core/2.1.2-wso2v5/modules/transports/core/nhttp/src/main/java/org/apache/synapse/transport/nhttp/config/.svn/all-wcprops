@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/config
+END
+ClientConnFactoryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/config/ClientConnFactoryBuilder.java
+END
+ProxyConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/config/ProxyConfigBuilder.java
+END
+ServerConnFactoryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/nhttp/config/ServerConnFactoryBuilder.java
+END

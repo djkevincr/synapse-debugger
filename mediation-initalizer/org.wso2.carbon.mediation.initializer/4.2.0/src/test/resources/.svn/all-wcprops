@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.0/src/test/resources
+END
+proxy1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.0/src/test/resources/proxy1.xml
+END
+proxy2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.0/src/test/resources/proxy2.xml
+END
+epr1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.0/src/test/resources/epr1.xml
+END
+epr2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.0/src/test/resources/epr2.xml
+END
+seq1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.0/src/test/resources/seq1.xml
+END
+seq2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.0/src/test/resources/seq2.xml
+END

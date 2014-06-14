@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/wso2/!svn/ver/203430/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/bsf
+END
+ScriptMediatorSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/bsf/ScriptMediatorSerializer.java
+END
+ScriptMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/202968/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/bsf/ScriptMediator.java
+END
+ScriptMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/203430/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/bsf/ScriptMessageContext.java
+END
+ScriptMediatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/main/java/org/apache/synapse/mediators/bsf/ScriptMediatorFactory.java
+END

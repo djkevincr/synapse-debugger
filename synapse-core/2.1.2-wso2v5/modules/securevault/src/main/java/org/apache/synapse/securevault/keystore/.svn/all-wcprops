@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore
+END
+JKSKeyStoreLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/JKSKeyStoreLoader.java
+END
+PKCS8KeyStoreLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/PKCS8KeyStoreLoader.java
+END
+KeyStoreWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/KeyStoreWrapper.java
+END
+TrustKeyStoreWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/TrustKeyStoreWrapper.java
+END
+CACertsLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/CACertsLoader.java
+END
+AbstractKeyStoreLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/AbstractKeyStoreLoader.java
+END
+IdentityKeyStoreWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/IdentityKeyStoreWrapper.java
+END
+PKCS12KeyStoreLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/keystore/PKCS12KeyStoreLoader.java
+END

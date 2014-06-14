@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/resources/META-INF/services
+END
+org.apache.synapse.config.xml.MediatorFactory
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/resources/META-INF/services/org.apache.synapse.config.xml.MediatorFactory
+END

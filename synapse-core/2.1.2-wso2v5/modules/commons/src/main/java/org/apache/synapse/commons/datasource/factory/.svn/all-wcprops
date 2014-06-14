@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/datasource/factory
+END
+DataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/datasource/factory/DataSourceFactory.java
+END
+DataSourceInformationListFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/datasource/factory/DataSourceInformationListFactory.java
+END
+DataSourceInformationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/datasource/factory/DataSourceInformationFactory.java
+END
+DataSourceInformationRepositoryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/main/java/org/apache/synapse/commons/datasource/factory/DataSourceInformationRepositoryFactory.java
+END

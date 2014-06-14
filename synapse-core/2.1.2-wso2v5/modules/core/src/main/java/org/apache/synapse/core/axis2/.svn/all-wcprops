@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/wso2/!svn/ver/203398/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2
+END
+MessageContextCreatorForAxis2.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/MessageContextCreatorForAxis2.java
+END
+Axis2Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/Axis2Sender.java
+END
+SynapseDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SynapseDispatcher.java
+END
+DynamicAxisOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/DynamicAxisOperation.java
+END
+AsyncCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/AsyncCallback.java
+END
+ProxyServiceMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/ProxyServiceMessageReceiver.java
+END
+SynapseSOAPMessageBodyBasedDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SynapseSOAPMessageBodyBasedDispatcher.java
+END
+CustomURIBasedDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/CustomURIBasedDispatcher.java
+END
+Axis2MessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/Axis2MessageContext.java
+END
+AnonymousServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/AnonymousServiceFactory.java
+END
+ProxyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/ProxyService.java
+END
+Axis2FlexibleMEPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/203398/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/Axis2FlexibleMEPClient.java
+END
+Axis2TransportHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/Axis2TransportHelper.java
+END
+Axis2LoadBalanceMembershipHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/Axis2LoadBalanceMembershipHandler.java
+END
+SynapseStartUpServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SynapseStartUpServlet.java
+END
+SynapseAxisServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SynapseAxisServlet.java
+END
+SynapseMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SynapseMessageReceiver.java
+END
+Axis2SynapseEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/Axis2SynapseEnvironment.java
+END
+ServiceLoadBalanceMembershipHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/ServiceLoadBalanceMembershipHandler.java
+END
+SynapseMustUnderstandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SynapseMustUnderstandHandler.java
+END
+SOAPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SOAPUtils.java
+END
+SynapseCallbackReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/SynapseCallbackReceiver.java
+END
+TimeoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/core/axis2/TimeoutHandler.java
+END

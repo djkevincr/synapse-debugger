@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry
+END
+MessageStoreRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/MessageStoreRegistryStore.java
+END
+EventSourceRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/EventSourceRegistryStore.java
+END
+ProxyServiceRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/ProxyServiceRegistryStore.java
+END
+StartupRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/StartupRegistryStore.java
+END
+AbstractRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/AbstractRegistryStore.java
+END
+SynapseRegistriesRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 249
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/SynapseRegistriesRegistryStore.java
+END
+MessageProcessorRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/MessageProcessorRegistryStore.java
+END
+SequenceRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/SequenceRegistryStore.java
+END
+APIRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/APIRegistryStore.java
+END
+ImportRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/ImportRegistryStore.java
+END
+TemplateRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/TemplateRegistryStore.java
+END
+LocalEntryRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/LocalEntryRegistryStore.java
+END
+ExecutorRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/ExecutorRegistryStore.java
+END
+EndpointRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/persistence/registry/EndpointRegistryStore.java
+END

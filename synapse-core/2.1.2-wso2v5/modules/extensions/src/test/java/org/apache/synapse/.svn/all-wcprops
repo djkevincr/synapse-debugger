@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/wso2/!svn/ver/203430/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse
+END
+TestMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/TestMediator.java
+END
+TestMediateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/java/org/apache/synapse/TestMediateHandler.java
+END

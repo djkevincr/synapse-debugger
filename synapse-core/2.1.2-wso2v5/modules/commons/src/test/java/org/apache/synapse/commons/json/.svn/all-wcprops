@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json
+END
+BuilderFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/BuilderFormatterTest.java
+END
+JsonStreamingBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/JsonStreamingBuilderTest.java
+END
+JsonFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/JsonFormatterTest.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/Util.java
+END
+JsonBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/JsonBuilderTest.java
+END
+JsonDataSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/JsonDataSourceTest.java
+END
+StreamBuilderFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/StreamBuilderFormatterTest.java
+END
+JsonStreamingFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/json/JsonStreamingFormatterTest.java
+END

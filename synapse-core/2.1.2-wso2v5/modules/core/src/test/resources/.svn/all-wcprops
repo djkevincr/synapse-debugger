@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/log4j.properties
+END
+keystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/keystore.jks
+END
+identity.jks
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/identity.jks
+END
+esbservice.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/esbservice.wsdl
+END
+trust.jks
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/test/resources/trust.jks
+END

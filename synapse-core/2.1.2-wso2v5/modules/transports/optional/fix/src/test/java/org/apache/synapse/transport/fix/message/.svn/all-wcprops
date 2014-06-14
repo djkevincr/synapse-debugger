@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/test/java/org/apache/synapse/transport/fix/message
+END
+FIXMessageFromatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/test/java/org/apache/synapse/transport/fix/message/FIXMessageFromatterTest.java
+END
+FIXMessageBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/test/java/org/apache/synapse/transport/fix/message/FIXMessageBuilderTest.java
+END

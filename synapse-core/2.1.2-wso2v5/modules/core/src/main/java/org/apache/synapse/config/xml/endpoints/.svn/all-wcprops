@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints
+END
+ClassEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/ClassEndpointFactory.java
+END
+FailoverEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/FailoverEndpointFactory.java
+END
+ClassEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/ClassEndpointSerializer.java
+END
+WSDLEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/WSDLEndpointFactory.java
+END
+FailoverEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/FailoverEndpointSerializer.java
+END
+ResolvingEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/ResolvingEndpointSerializer.java
+END
+TemplateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/TemplateFactory.java
+END
+WSDLEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/WSDLEndpointSerializer.java
+END
+ServiceDynamicLoadbalanceEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/ServiceDynamicLoadbalanceEndpointFactory.java
+END
+TemplateEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/TemplateEndpointFactory.java
+END
+ServiceDynamicLoadbalanceEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/ServiceDynamicLoadbalanceEndpointSerializer.java
+END
+TemplateEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/TemplateEndpointSerializer.java
+END
+RecipientListEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/RecipientListEndpointSerializer.java
+END
+AddressEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/AddressEndpointFactory.java
+END
+DefaultEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/DefaultEndpointSerializer.java
+END
+DefinitionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/DefinitionFactory.java
+END
+AddressEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/AddressEndpointSerializer.java
+END
+EndpointDefinitionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/EndpointDefinitionFactory.java
+END
+DynamicLoadbalanceEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/DynamicLoadbalanceEndpointSerializer.java
+END
+IndirectEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/IndirectEndpointFactory.java
+END
+IndirectEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/IndirectEndpointSerializer.java
+END
+ResolvingEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/ResolvingEndpointFactory.java
+END
+SALoadbalanceEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/SALoadbalanceEndpointFactory.java
+END
+SALoadbalanceEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/SALoadbalanceEndpointSerializer.java
+END
+TemplateSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/TemplateSerializer.java
+END
+RecipientListEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/RecipientListEndpointFactory.java
+END
+EndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/EndpointFactory.java
+END
+HTTPEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/HTTPEndpointFactory.java
+END
+XMLToEndpointMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/XMLToEndpointMapper.java
+END
+HTTPEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/HTTPEndpointSerializer.java
+END
+EndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/EndpointSerializer.java
+END
+DefaultEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/DefaultEndpointFactory.java
+END
+LoadbalanceEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/LoadbalanceEndpointFactory.java
+END
+LoadbalanceEndpointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/LoadbalanceEndpointSerializer.java
+END
+DynamicLoadbalanceEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/DynamicLoadbalanceEndpointFactory.java
+END
+EndpointDefinitionSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/config/xml/endpoints/EndpointDefinitionSerializer.java
+END

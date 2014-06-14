@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2014-06-13 08:41:36.735 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-0146-9463-a35e-000006017338
+on database directory /home/kevin/gsoc_project/2.1.2-wso2v5/modules/core/target/derbyDB  
+
+Database Class Loader started - derby.database.classpath=''

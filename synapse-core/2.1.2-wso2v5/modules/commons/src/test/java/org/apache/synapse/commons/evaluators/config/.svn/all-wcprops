@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/evaluators/config
+END
+MatchSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/evaluators/config/MatchSerializerTest.java
+END
+EqualBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/evaluators/config/EqualBuilderTest.java
+END
+EqualSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/evaluators/config/EqualSerializerTest.java
+END
+MatchBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/commons/src/test/java/org/apache/synapse/commons/evaluators/config/MatchBuilderTest.java
+END

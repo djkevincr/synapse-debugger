@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs
+END
+VFSAsyncFileChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSAsyncFileChannel.java
+END
+VFSRequestResponseClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSRequestResponseClient.java
+END
+VFSFileChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSFileChannel.java
+END
+VFSMockAsyncEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSMockAsyncEndpoint.java
+END
+VFSTransportDescriptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSTransportDescriptionFactory.java
+END
+VFSAsyncClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSAsyncClient.java
+END
+VFSTransportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSTransportTest.java
+END
+VFSClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSClient.java
+END
+VFSRequestResponseFileChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSRequestResponseFileChannel.java
+END
+VFSTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSTestUtils.java
+END
+VFSTestEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/vfs/src/test/java/org/apache/synapse/transport/vfs/VFSTestEnvironment.java
+END

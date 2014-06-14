@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/configurations
+END
+ConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/configurations/ConfigurationManager.java
+END
+ConfigurationTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/configurations/ConfigurationTracker.java
+END
+ConfigurationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/configurations/ConfigurationUtils.java
+END
+ConfigurationInitilizerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 245
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/configurations/ConfigurationInitilizerException.java
+END
+ConfigurationInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.1/src/main/java/org/wso2/carbon/mediation/initializer/configurations/ConfigurationInformation.java
+END

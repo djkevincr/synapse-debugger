@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services
+END
+TradingDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/TradingDay.java
+END
+GetQuoteResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/GetQuoteResponse.java
+END
+SimpleStockQuoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/SimpleStockQuoteService.java
+END
+GetQuote.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/GetQuote.java
+END
+GetFullQuoteResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/GetFullQuoteResponse.java
+END
+GetMarketActivityResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/GetMarketActivityResponse.java
+END
+GetFullQuote.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/GetFullQuote.java
+END
+GetMarketActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/GetMarketActivity.java
+END
+PlaceOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/samples/services/SimpleStockQuoteService/src/samples/services/PlaceOrder.java
+END

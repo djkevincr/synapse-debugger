@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda
+END
+SEDAMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAMediator.java
+END
+SEDAQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueue.java
+END
+SEDAQueuePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueuePolicy.java
+END
+SEDAQueueProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueueProducer.java
+END
+SEDAQueueProducerPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueueProducerPolicy.java
+END
+SEDAQueueConsumerWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueueConsumerWorker.java
+END
+SEDAMediatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAMediatorFactory.java
+END
+SEDAQueueConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueueConsumer.java
+END
+SEDAQueueConsumerPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueueConsumerPolicy.java
+END
+SEDAQueueConsumerWorkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/SEDAQueueConsumerWorkerFactory.java
+END
+DefaultConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/experimental/src/main/java/org/apache/synapse/experimental/mediators/seda/DefaultConsumer.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/test/java/org/wso2/carbon/mediation/dependency/mgt/tests
+END
+DependencyMgtTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/test/java/org/wso2/carbon/mediation/dependency/mgt/tests/DependencyMgtTestCase.java
+END
+EndpointDependencyTrackingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/test/java/org/wso2/carbon/mediation/dependency/mgt/tests/EndpointDependencyTrackingTest.java
+END
+BasicDependencyTrackingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/test/java/org/wso2/carbon/mediation/dependency/mgt/tests/BasicDependencyTrackingTest.java
+END
+ProxyDependencyTrackingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/test/java/org/wso2/carbon/mediation/dependency/mgt/tests/ProxyDependencyTrackingTest.java
+END

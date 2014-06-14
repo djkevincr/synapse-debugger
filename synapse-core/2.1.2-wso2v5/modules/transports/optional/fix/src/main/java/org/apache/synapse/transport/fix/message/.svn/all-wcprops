@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/message
+END
+FIXMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/message/FIXMessageBuilder.java
+END
+FIXConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/message/FIXConstants.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/message/Field.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/message/Message.java
+END
+FIXMessageFromatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/optional/fix/src/main/java/org/apache/synapse/transport/fix/message/FIXMessageFromatter.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/definition
+END
+CipherInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/definition/CipherInformation.java
+END
+KeyStoreInformationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/definition/KeyStoreInformationFactory.java
+END
+IdentityKeyStoreInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/definition/IdentityKeyStoreInformation.java
+END
+KeyStoreInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/definition/KeyStoreInformation.java
+END
+TrustKeyStoreInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/securevault/src/main/java/org/apache/synapse/securevault/definition/TrustKeyStoreInformation.java
+END

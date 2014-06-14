@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/multitenancy
+END
+StratosEntrySerialiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/multitenancy/StratosEntrySerialiser.java
+END
+TenantServiceBusInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/multitenancy/TenantServiceBusInitializer.java
+END
+StratosEntryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/multitenancy/StratosEntryFactory.java
+END

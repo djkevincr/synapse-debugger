@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe
+END
+PipeEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/PipeEndpoint.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/Protocol.java
+END
+PipeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/PipeListener.java
+END
+PipeDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/PipeDispatcher.java
+END
+PipeEndpointListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/PipeEndpointListener.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/package-info.java
+END
+ProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/ProtocolDecoder.java
+END
+EndDelimitedProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/EndDelimitedProtocol.java
+END
+PipeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/pipe/src/main/java/org/apache/synapse/transport/pipe/PipeConstants.java
+END

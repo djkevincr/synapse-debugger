@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers
+END
+SpringMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/SpringMediatorResolver.java
+END
+CacheMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/CacheMediatorResolver.java
+END
+CalloutMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/CalloutMediatorResolver.java
+END
+ScriptMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/ScriptMediatorResolver.java
+END
+ThrottleMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/ThrottleMediatorResolver.java
+END
+SequenceMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/SequenceMediatorResolver.java
+END
+SendMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/SendMediatorResolver.java
+END
+ValidateMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/ValidateMediatorResolver.java
+END
+XSLTMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/XSLTMediatorResolver.java
+END
+AbstractDependencyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/AbstractDependencyResolver.java
+END
+IterateMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/IterateMediatorResolver.java
+END
+XQueryMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/XQueryMediatorResolver.java
+END
+CloneMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/CloneMediatorResolver.java
+END
+RouterMediatorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/resolvers/RouterMediatorResolver.java
+END

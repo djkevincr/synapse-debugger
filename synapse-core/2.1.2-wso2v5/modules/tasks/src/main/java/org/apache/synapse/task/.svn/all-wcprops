@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task
+END
+DefaultTaskJobDetailFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/DefaultTaskJobDetailFactory.java
+END
+TaskTriggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskTriggerFactory.java
+END
+DefaultTaskTriggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/DefaultTaskTriggerFactory.java
+END
+SynapseTaskException.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/SynapseTaskException.java
+END
+TaskSchedulerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskSchedulerFactory.java
+END
+TaskDescriptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskDescriptionFactory.java
+END
+TaskDescriptionRepositoryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskDescriptionRepositoryFactory.java
+END
+TaskConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskConstants.java
+END
+SynapseTaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/SynapseTaskManager.java
+END
+TaskDescriptionSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskDescriptionSerializer.java
+END
+TaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskScheduler.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/Task.java
+END
+TaskDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskDescription.java
+END
+TaskDescriptionRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskDescriptionRepository.java
+END
+TaskJobDetailFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/tasks/src/main/java/org/apache/synapse/task/TaskJobDetailFactory.java
+END

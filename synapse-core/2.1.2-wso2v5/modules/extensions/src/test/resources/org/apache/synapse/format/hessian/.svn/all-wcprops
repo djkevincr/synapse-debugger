@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/resources/org/apache/synapse/format/hessian
+END
+hessianDummyFaultResponse_V1.bin
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/resources/org/apache/synapse/format/hessian/hessianDummyFaultResponse_V1.bin
+END
+hessianIncomplete.bin
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/resources/org/apache/synapse/format/hessian/hessianIncomplete.bin
+END
+hessianDummyRequest.bin
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/extensions/src/test/resources/org/apache/synapse/format/hessian/hessianDummyRequest.bin
+END

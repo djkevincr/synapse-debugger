@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wso2/!svn/ver/203398/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core
+END
+axis2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/axis2.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/wso2/!svn/ver/198611/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/pom.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/cache
+END
+ManageableCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/cache/ManageableCache.java
+END
+CacheController.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/cache/CacheController.java
+END
+CacheControllerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/cache/CacheControllerMBean.java
+END
+ManageableCacheValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/cache/ManageableCacheValue.java
+END
+CacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/certificatevalidation/cache/CacheManager.java
+END

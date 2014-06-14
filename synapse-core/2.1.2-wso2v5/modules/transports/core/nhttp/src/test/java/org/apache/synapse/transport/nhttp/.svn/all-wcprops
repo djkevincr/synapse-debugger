@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/java/org/apache/synapse/transport/nhttp
+END
+HttpCoreNIOListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/java/org/apache/synapse/transport/nhttp/HttpCoreNIOListenerTest.java
+END
+HttpAxisTestClientConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/java/org/apache/synapse/transport/nhttp/HttpAxisTestClientConfigurator.java
+END
+HttpTransportDescriptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/java/org/apache/synapse/transport/nhttp/HttpTransportDescriptionFactory.java
+END
+RestURLPostfixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/test/java/org/apache/synapse/transport/nhttp/RestURLPostfixTest.java
+END

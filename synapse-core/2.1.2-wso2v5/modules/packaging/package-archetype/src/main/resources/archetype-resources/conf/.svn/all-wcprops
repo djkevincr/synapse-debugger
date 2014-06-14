@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/packaging/package-archetype/src/main/resources/archetype-resources/conf
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/packaging/package-archetype/src/main/resources/archetype-resources/conf/log4j.properties
+END

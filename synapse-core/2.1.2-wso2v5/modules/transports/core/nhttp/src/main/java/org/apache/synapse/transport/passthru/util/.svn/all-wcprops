@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/wso2/!svn/ver/197801/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util
+END
+DeferredMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/DeferredMessageBuilder.java
+END
+RelayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/RelayUtils.java
+END
+BufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/BufferFactory.java
+END
+ActiveConnectionMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/ActiveConnectionMonitor.java
+END
+CacheMessageBuilderDispatchandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/CacheMessageBuilderDispatchandler.java
+END
+PassThroughTransportUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/wso2/!svn/ver/197801/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/PassThroughTransportUtils.java
+END
+RelaySecuirtyMessageBuilderDispatchandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/RelaySecuirtyMessageBuilderDispatchandler.java
+END
+SourceResponseFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/SourceResponseFactory.java
+END
+TargetRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/TargetRequestFactory.java
+END
+BinaryRelayBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/BinaryRelayBuilder.java
+END
+TraceMessageBuilderDispatchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/TraceMessageBuilderDispatchHandler.java
+END
+RelayConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/RelayConstants.java
+END
+StreamingOnRequestDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/transports/core/nhttp/src/main/java/org/apache/synapse/transport/passthru/util/StreamingOnRequestDataSource.java
+END

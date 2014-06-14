@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence
+END
+MediationPersistenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/MediationPersistenceManager.java
+END
+ExecutorStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/ExecutorStore.java
+END
+MessageStoreStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/MessageStoreStore.java
+END
+EventSourceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/EventSourceStore.java
+END
+ProxyServiceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/ProxyServiceStore.java
+END
+StartupStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/StartupStore.java
+END
+AbstractStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/AbstractStore.java
+END
+SequenceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/SequenceStore.java
+END
+APIStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/APIStore.java
+END
+ImportStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/ImportStore.java
+END
+TemplateStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/TemplateStore.java
+END
+SynapseRegistryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/SynapseRegistryStore.java
+END
+EndpointTemplateStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/EndpointTemplateStore.java
+END
+LocalEntryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/LocalEntryStore.java
+END
+EndpointStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/EndpointStore.java
+END
+ServiceBusPersistenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/ServiceBusPersistenceException.java
+END
+MessageProcessorStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.initializer/4.2.2/src/main/java/org/wso2/carbon/mediation/initializer/persistence/MessageProcessorStore.java
+END

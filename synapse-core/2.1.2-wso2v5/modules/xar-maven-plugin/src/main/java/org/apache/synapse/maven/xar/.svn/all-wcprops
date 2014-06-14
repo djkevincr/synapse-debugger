@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar
+END
+ClassScannerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar/ClassScannerException.java
+END
+ClassScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar/ClassScanner.java
+END
+XarMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar/XarMojo.java
+END
+AbstractXarMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar/AbstractXarMojo.java
+END
+ServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar/ServiceLocator.java
+END
+XarExplodedMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar/XarExplodedMojo.java
+END
+ClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/xar-maven-plugin/src/main/java/org/apache/synapse/maven/xar/ClassVisitor.java
+END

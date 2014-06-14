@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt
+END
+ConfigurationObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/ConfigurationObject.java
+END
+DependencyManagementServiceComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/DependencyManagementServiceComponent.java
+END
+DependencyGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/DependencyGraph.java
+END
+DependencyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/DependencyResolver.java
+END
+CustomResolversListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/CustomResolversListener.java
+END
+DependencyResolverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/DependencyResolverFactory.java
+END
+DirectedEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/DirectedEdge.java
+END
+DependencyTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/repos/wso2/!svn/ver/202725/carbon/platform/tags/turing-chunk10/components/mediation-initializer/org.wso2.carbon.mediation.dependency.mgt/4.2.0/src/main/java/org/wso2/carbon/mediation/dependency/mgt/DependencyTracker.java
+END

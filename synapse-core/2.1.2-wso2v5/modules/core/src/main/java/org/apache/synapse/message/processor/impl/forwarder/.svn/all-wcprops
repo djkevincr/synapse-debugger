@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/wso2/!svn/ver/197438/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/processor/impl/forwarder
+END
+ScheduledMessageForwardingProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/processor/impl/forwarder/ScheduledMessageForwardingProcessor.java
+END
+ForwardingProcessorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/processor/impl/forwarder/ForwardingProcessorConstants.java
+END
+MessageForwardingProcessorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/processor/impl/forwarder/MessageForwardingProcessorView.java
+END
+ForwardingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/wso2/!svn/ver/197438/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/processor/impl/forwarder/ForwardingService.java
+END
+MessageForwardingProcessorViewMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/wso2/!svn/ver/197111/carbon/platform/branches/turing/dependencies/synapse/2.1.2-wso2v5/modules/core/src/main/java/org/apache/synapse/message/processor/impl/forwarder/MessageForwardingProcessorViewMBean.java
+END
